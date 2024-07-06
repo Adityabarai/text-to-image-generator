@@ -1,3 +1,16 @@
+<h1>Text to Image Generator</h1>
+Welcome to the Text to Image Generator! This React project leverages the power of the OpenAI API to convert text descriptions into stunning images. It's an innovative tool designed to bring your textual ideas to life visually.<br /><br />
+
+<h3>Features</h3>
+* Text Input: Users can input descriptive text to generate corresponding images.<br>
+* pixels Integration: Utilizes the pixels to create high-quality images based on the provided text.<br>
+* Interactive Interface: A user-friendly interface for entering text and viewing generated images.<br>
+* Customization Options: Adjust settings to fine-tune the image generation process according to your preferences.<br>
+<h3>How to Use</h3>
+1. Enter Text: Type in a descriptive text of what you want to see in the image.<br>
+2. Generate Image: Click the generate button to create an image based on your text.<br>
+3. View and Save: View the generated image and save it if desired.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
